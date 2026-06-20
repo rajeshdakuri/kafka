@@ -121,5 +121,8 @@ mvn spring-boot:run
 * Fraud Detection Pipeline
 * Spring Boot + Kafka Integration
 
+Author
+
+Rajesh Dakuri
 ```
 ```
